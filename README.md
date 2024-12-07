@@ -34,7 +34,7 @@ O **Sistema de Gestão de Vendas e Estoque** é uma solução completa para gere
 ## Capturas de Tela
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbrCs7/Controle-Vendas-Estoque/refs/heads/main/ControlEstoque/Imagem1.png" alt="Screenshot 1" width="300" style="margin-right: 100px;"/>
+  <img src="https://raw.githubusercontent.com/AbrCs7/Controle-Vendas-Estoque/refs/heads/main/ControlEstoque/Imagem2.png" alt="Screenshot 1" width="540" style="margin-right: 100px;"/>
   <img src="https://raw.githubusercontent.com/AbrCs7/Controle-Vendas-Estoque/refs/heads/main/ControlEstoque/Imagem3.png" alt="Screenshot 2" width="540"/>
 </p>
 
