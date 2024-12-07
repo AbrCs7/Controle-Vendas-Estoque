@@ -1,7 +1,6 @@
 # Sistema de Gestão de Vendas e Estoque
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbrCs7/Controle-Vendas-Estoque/refs/heads/main/CodigoFonte/img/bolsa-de-compras.png" alt="Logo do Sistema de Gestão" width="200"/>
+  <img src="https://github.com/AbrCs7/Controle-Vendas-Estoque/tree/7512e7cddab2463f2e9f234314346dab7adbff92/ControlEstoque/img/bolsa-de-compras.png" alt="Logo do Sistema de Gestão" width="200"/>
 </p>
 
 ### Um sistema avançado de gestão de vendas e estoque desenvolvido com Qt Creator
@@ -58,7 +57,7 @@ O **Sistema de Gestão de Vendas e Estoque** é uma solução completa para gere
 
 1. Clone o repositório:
    ```bash
-    https://github.com/AbrCs7/Controle-Vendas-Estoque/tree/main/CodigoFonte
+    https://github.com/AbrCs7/Controle-Vendas-Estoque/tree/7512e7cddab2463f2e9f234314346dab7adbff92/ControlEstoque
 2. Abra o projeto no Qt Creator:
 
 3. Configure o compilador e a versão do Qt.
