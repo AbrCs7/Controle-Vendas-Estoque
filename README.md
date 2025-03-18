@@ -68,14 +68,14 @@ O **Sistema de Gestão de Vendas e Estoque** é uma solução completa para gere
 ##Como Usar
 
 0. Acesso:
-        Usuário: adm
+        Usuário: adm  |  
         senha:   1234
 
-1. Adicionar Produtos ao Estoque:
+2. Adicionar Produtos ao Estoque:
         Acesse a aba "Gestão de Estoque".
         Clique em "Adicionar Produto" e preencha os campos obrigatórios.
 
-2. Realizar uma Nova Venda:
+3. Realizar uma Nova Venda:
         Selecione a aba "Nova Venda".
         Escolha os produtos desejados e clique em "Finalizar".
 
